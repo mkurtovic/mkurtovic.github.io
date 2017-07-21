@@ -1,7 +1,7 @@
 /*!  Bootstrap - Styles v3.3.7+1  */
 
 body { background:   #b3b3cc;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -24,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family:  'Cinzel Decorative', cursive;
+  font-family: 'Roboto', sans-serif;
   text-transform: capitalize;
   font-weight: 700;
     color: 
