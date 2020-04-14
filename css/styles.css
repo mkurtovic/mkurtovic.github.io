@@ -1,6 +1,6 @@
 /*!  Bootstrap - Styles v3.3.7+1  */
 
-body { background:   #b3b3cc;
+body { background:   #d4d6db;
   font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
 }
@@ -15,7 +15,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color:  #666699;
+  color:  #838996;
   outline: none;
 }
 h1,
@@ -55,7 +55,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color:  #666699;
+  background-color:  #838996;
   color: white;
 }
 hr.star-primary {
@@ -70,7 +70,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #666699;
+  background: #838996;
   color: white;
 }
 header .container {
@@ -105,7 +105,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #000000;
+  background: #414349;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -130,7 +130,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color:  #666699;
+  color:  #838996;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -139,13 +139,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #666699;
+  background: #838996;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background:  #666699;
+  background:  #838996;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -155,9 +155,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color:  #666699;
+  background-color:  #838996;
   color: white;
-  border-color:  #666699;
+  border-color:  #838996;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -187,7 +187,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background:  #666699;
+  background:  #838996;
   color: white;
 }
 @media (max-width: 767px) {
@@ -303,14 +303,14 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #000000;
+  background-color: #2d2e32;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #24478f;
+  background-color: #2d2e32;
 }
 .btn-outline {
   color: white;
